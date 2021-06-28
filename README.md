@@ -1,9 +1,2 @@
 # Census_Data_Assessment
-This repository contains:
-1.) API Data Extraction/Data Visualization scripts 
-a.) Characteristics of Busines Owner Visualization: Census_Assessment_Radha.ipynb
-b.) Employee and Employer Data Visualizations: DustinCensus.ipynb
-c.) Characteristics of Business Technology Visualizations: Panda_Census_Excercise.ipynb
-
-2.)Data Report
-a.) Data_Report_Group1.pdf
+This repository contains API Data Extraction/Data Visualization scripts contained in the files: Census_Assessment_Radha.ipynb(Characteristics of Busines Owner Visualizations), DustinCensus.ipynb (Employee and Employer Data Visualizations), and Panda_Census_Excercise.ipynb (Characteristics of Business Technology Visualizations). It also contains Data_Report_Group1.pdf, a data report that describes the visualization created in the python files.
